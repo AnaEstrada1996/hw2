@@ -1,4 +1,1 @@
-Hello, my name is Ana Estrada and I am working on hw2
-
-This file comes before the others
-Git is tracking my changes
+Hello, our names are Ana Estrada and Moina Vernon and we are working on hw5 together.
